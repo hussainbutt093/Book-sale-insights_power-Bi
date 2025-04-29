@@ -3,7 +3,9 @@
 Visualizes sales orders, customer locations, and book stock to drive business decisions.
 ## Dataset used
 - <a href="https://github.com/hussainbutt093/Book-sale-insights_power-Bi/blob/main/Book%20sales%20insights.pbix"> Dataset<a/>
-##Question
+
+##Questions
+
 1 - Which are the Top 5 Best Selling Books?
 2 - How many Total Sales and Total Orders have been made?
 3 - Which books are Low in Stock and need urgent restocking?
